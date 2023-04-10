@@ -1,0 +1,97 @@
+nav {
+	background: #4caf50;
+	padding: 20px;
+	color: white;
+}
+
+.nosotros h2 {
+	text-align: center;
+	
+	font-style: italic;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nosotros p {
+	text-align: center;
+	
+	font-style: italic;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section {
+	width: 100%;
+	position: relative;
+	z-index: 1;
+	width: 90%;
+	margin: 30px auto;
+	padding: 45px;
+	background-color: white;
+	box-shadow: 0px 0px 4px #b6b6b6;
+}
+
+
+
+
+.Portada {
+	margin-top: 2em;
+	width: 100%;
+	height: 40em;
+	background-image: url('img/Portada.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+}
+
+.Portada_frase {
+	padding: 9em;
+}
+.Portada_frase .frase {
+	font-size: 4em;
+	text-shadow: 2px 2px 1px black;
+}
+
+
+
+
+
+
+p {
+	text-align: justify;
+}
+
+
+
+#productos {
+	padding: 20px;
+	background-color: #4caf50;
+	color: white;
+
+}
+
+#productos h2 {
+	text-align: center;
+}
+
+
+
+
+.titulop {
+	color: #4caf50;
+}
+
+.footer {
+	width: 100%;
+
+	z-index: 2;
+	background-color: #2b2b2b;
+}
+
+section .contenedor .img_planta {
+	width: 30em;
+	
+}
+img {
+    width: 100%;
+	
+}
